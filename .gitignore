@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/EntityFramework/BaseExistente/.vs
+/EntityFramework/BaseExistente/EfDbExistente/.vscode
+/EntityFramework/BaseExistente/EfDbExistente/bin/Debug/net8.0
+/EntityFramework/BaseExistente/EfDbExistente/obj
